@@ -3,3 +3,5 @@
 1. <https://www.youtube.com/watch?v=b20YueeXwZg&t=5s>
 
 2. ![캡처](assets/preview.png)
+
+3. <https://hyundai-sangho.github.io/whack_a_mole/>
